@@ -1,0 +1,10 @@
+B:\Users\Adam Malec\Desktop\CSCI Work\Assignment 12 - Celsius to Fahrenheit Table\CelsiusToFahrenheitTable\bin\Debug\CelsiusToFahrenheitTable.exe.config
+B:\Users\Adam Malec\Desktop\CSCI Work\Assignment 12 - Celsius to Fahrenheit Table\CelsiusToFahrenheitTable\bin\Debug\CelsiusToFahrenheitTable.exe
+B:\Users\Adam Malec\Desktop\CSCI Work\Assignment 12 - Celsius to Fahrenheit Table\CelsiusToFahrenheitTable\bin\Debug\CelsiusToFahrenheitTable.pdb
+B:\Users\Adam Malec\Desktop\CSCI Work\Assignment 12 - Celsius to Fahrenheit Table\CelsiusToFahrenheitTable\obj\Debug\CelsiusToFahrenheitTable.csproj.AssemblyReference.cache
+B:\Users\Adam Malec\Desktop\CSCI Work\Assignment 12 - Celsius to Fahrenheit Table\CelsiusToFahrenheitTable\obj\Debug\CelsiusToFahrenheitTable.Form1.resources
+B:\Users\Adam Malec\Desktop\CSCI Work\Assignment 12 - Celsius to Fahrenheit Table\CelsiusToFahrenheitTable\obj\Debug\CelsiusToFahrenheitTable.Properties.Resources.resources
+B:\Users\Adam Malec\Desktop\CSCI Work\Assignment 12 - Celsius to Fahrenheit Table\CelsiusToFahrenheitTable\obj\Debug\CelsiusToFahrenheitTable.csproj.GenerateResource.cache
+B:\Users\Adam Malec\Desktop\CSCI Work\Assignment 12 - Celsius to Fahrenheit Table\CelsiusToFahrenheitTable\obj\Debug\CelsiusToFahrenheitTable.csproj.CoreCompileInputs.cache
+B:\Users\Adam Malec\Desktop\CSCI Work\Assignment 12 - Celsius to Fahrenheit Table\CelsiusToFahrenheitTable\obj\Debug\CelsiusToFahrenheitTable.exe
+B:\Users\Adam Malec\Desktop\CSCI Work\Assignment 12 - Celsius to Fahrenheit Table\CelsiusToFahrenheitTable\obj\Debug\CelsiusToFahrenheitTable.pdb
